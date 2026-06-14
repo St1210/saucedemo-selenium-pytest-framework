@@ -1,0 +1,14 @@
+# Testing Framework
+pytest==7.4.3
+pytest-xdist==3.5.0
+
+# Selenium WebDriver
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Utilities
+requests==2.31.0
+
+# Optional: For better reporting
+pytest-html==4.1.1
+pytest-metadata==2.0.4
